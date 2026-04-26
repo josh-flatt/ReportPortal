@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="reportportal.client/reportportal.client.esproj">
+    <Build />
+    <Deploy />
+  </Project>
+  <Project Path="ReportPortal.Server/ReportPortal.Server.csproj" />
+</Solution>
